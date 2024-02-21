@@ -1,42 +1,42 @@
 export const movies = [
   {
     id: 1,
-    title: "The Hangover",
+    title: "The Fault in Our Stars",
     image:
-      "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p192248_p_v8_am.jpg",
+      "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRs2VJUeuVhXNp1F8fzTEBXnzW_0JhYU5S5zKmcXvBcWlVF4tKBgiBx_yLLd71xQml4RFL1Yg",
     description:
-      "Three friends who lose the groom at his Las Vegas bachelor party and then must retrace their steps to figure out what happened to him.",
+      "Two teenagers with cancer fall in love and embark on a journey to explore the meaning of life and love amidst their struggles with illness.",
   },
   {
     id: 2,
-    title: "Mean Girls",
+    title: "P.S. I Love You",
     image:
-      "https://resizing.flixster.com/HtZiEfthbBdM_Idd_OB4ZsyfgMk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI2MTVlZjAyLTc1NTAtNGE2Zi1iNzk0LTQxN2ZmMTIyYzRiMC5qcGc=",
+      "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGtAGifXFSymVnXiPN-H61q5bo1Z0KTgPixZesSBjRBAZ19uMf9ZG2uKPQyDJ5H6Fm7eiu",
     description:
-      "Cady Heron quickly gains popularity among The Plastics, the elite group of girls at her new school. However, her status takes a hit when she develops feelings for Aaron Samuels, who happens to be the former boyfriend of Regina George, the leader of The Plastics.",
+      "A young widow discovers a series of letters left behind by her late husband, guiding her through grief and teaching her to live and love again.",
   },
   {
     id: 3,
-    title: "Bridesmaids",
+    title: "The Vow",
     image:
-      "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTv8N4Pfcss3Y10uosDdI7PbJ_br3I4-Pv7D-sXk9cVHr4J43I9",
+      "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUBKP-p_uRG9o-BtDU3nHSMZHpSmIdZ9cPhpwjK_Px15a8mJMNTWihlgDDRFzIW78Upn35AA",
     description:
-      "The bridesmaid's main role is to support the Maid of Honor in wedding planning and assist the bride as required. However, their responsibilities extend beyond that, encompassing various tasks essential for executing the bride's envisioned wedding.",
+      "After a car accident leaves her with amnesia, a woman must fall in love with her husband all over again as they rebuild their relationship from scratch.",
   },
   {
     id: 4,
-    title: "Are with there yet?",
+    title: "Dear John",
     image:
-      "https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/chameleon/title-movie/233891_AreWeThereYet_2005_1400x2100_US_1.jpg?itok=j-06FgyF",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyP9Ue4NnRbrwSrN72RAyHQ6j0-ERja2T5kE4Oexogkt1s5heJHeqI7zWzDunm7Rb5mGYO",
     description:
-      "Nick Persons, a self-centered sports collectibles shop owner in Portland, has his perfect life disrupted when he encounters Suzanne Kingston, a businesswoman with children, Lindsey and Kevin, whom he dislikes. Despite initial tensions, they bond and share enjoyable moments. However, Nick's tranquility is shattered when Suzanne asks him to drive the kids to Vancouver. Facing challenges and the children's dislike, Nick embarks on a journey, unaware of the trials awaiting him.",
+      "A soldier and a college student fall in love through a series of letters while he's deployed overseas, but their relationship faces challenges when he returns home.",
   },
   {
     id: 5,
-    title: "IT",
+    title: "The Notebook",
     image:
-      "http://t3.gstatic.com/images?q=tbn:ANd9GcTV-u5kP85-KSQKK6sGTax5Ch2pZEYyTnZHSaNEdJbbMYlFK4KYdHavQWlrU0YLTetuDBWm",
+      "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWHMDvi-Qll3c0IKa8O2KeZav8QI4FFdTnh9O356JlF4EtGfZTYUNptcyJdcuPlw6NmOmA",
     description:
-      "Seven young kids in Derry, Maine, are about to deal with their biggest fear: a really old, changing evil that comes out of the sewer every 27 years to harm the town's children.",
+      "A young couple's epic love story unfolds over decades as they navigate obstacles and cherish the memories they share, even in the face of Alzheimer's disease.",
   },
 ];
